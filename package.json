@@ -1,0 +1,17 @@
+{
+  "name": "bookReadClub-react-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/balpal4495/bookReadClub-react-web.git",
+  "author": "baljit4495@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "webpack": "^2.5.0"
+  }
+}
